@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Accenture",
+    "sector": "IT Services & Consulting",
+    "typicalNoticePeriod": "90 days",
+    "buyoutCommon": "Sometimes",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "Amazon India",
+    "sector": "E-commerce / Tech",
+    "typicalNoticePeriod": "30-60 days",
+    "buyoutCommon": "Often",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "CRED",
+    "sector": "Fintech",
+    "typicalNoticePeriod": "30 days",
+    "buyoutCommon": "Often",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "Cognizant",
+    "sector": "IT Services",
+    "typicalNoticePeriod": "30-90 days",
+    "buyoutCommon": "Sometimes",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "Flipkart",
+    "sector": "E-commerce",
+    "typicalNoticePeriod": "30-60 days",
+    "buyoutCommon": "Often",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "Freshworks",
+    "sector": "SaaS",
+    "typicalNoticePeriod": "60 days",
+    "buyoutCommon": "Sometimes",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "HCLTech",
+    "sector": "IT Services",
+    "typicalNoticePeriod": "90 days",
+    "buyoutCommon": "Rare",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "Infosys",
+    "sector": "IT Services",
+    "typicalNoticePeriod": "90 days",
+    "buyoutCommon": "Rare",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "Paytm",
+    "sector": "Fintech",
+    "typicalNoticePeriod": "30-60 days",
+    "buyoutCommon": "Sometimes",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "PhonePe",
+    "sector": "Fintech",
+    "typicalNoticePeriod": "30-60 days",
+    "buyoutCommon": "Sometimes",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "Razorpay",
+    "sector": "Fintech",
+    "typicalNoticePeriod": "30-60 days",
+    "buyoutCommon": "Often",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "Swiggy",
+    "sector": "Foodtech",
+    "typicalNoticePeriod": "30-45 days",
+    "buyoutCommon": "Often",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "TCS",
+    "sector": "IT Services",
+    "typicalNoticePeriod": "90 days",
+    "buyoutCommon": "Rare",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "Wipro",
+    "sector": "IT Services",
+    "typicalNoticePeriod": "60 days",
+    "buyoutCommon": "Sometimes",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  },
+  {
+    "name": "Zomato",
+    "sector": "Foodtech",
+    "typicalNoticePeriod": "30 days",
+    "buyoutCommon": "Often",
+    "lastUpdated": "2026-07",
+    "source": "community-reported"
+  }
+]
