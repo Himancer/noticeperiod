@@ -10,6 +10,8 @@ A community-maintained lookup of typical notice periods at India-market companie
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript)
 ![License](https://img.shields.io/badge/status-v0-amber)
 
+**🔗 Live demo: [noticeperiod.vercel.app](https://noticeperiod.vercel.app/)**
+
 > ## ⚠️ Data disclaimer
 >
 > **Sample seed data — community-reported, not official.** Notice periods vary by level, tenure and offer letter. **Verify with the company.** Contribute corrections via PR.
